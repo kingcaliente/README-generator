@@ -9,12 +9,31 @@
 <body>
   <header class="p-5 mb-4 header bg-light">
     <div class="container">
-      <h1 class="display-4">Hi! My name is undefined</h1>
-      <p class="lead">I am from undefined.</p>
-      <h3>Example heading <span class="badge bg-secondary">Contact Me</span></h3>
+      <h3 class="display-4"> Project Title: README Generator</h3>
+
+      <h3>Description:</p>
+      <p class="lead">This command line application will prompt the user for information about their new github project. It will use the data to return a professional read me file in and MD format..</p>
+
+
+      <h3>Getting Started</h3>
+      <p class="lead">Dependencies: This application is available to both Windows 10 and MAC users. Please refer to the latest version of your operating system.</p>
+      <p class="lead">Installing: Anyone who contributes will be added the Blame file.</p>
+
+
+      <h3>Installing</h3>
+      <p class="lead">Dependencies: This application is available under my list of repositories, a link to my github will be listed below.</p>
+
+      
+      <span class="badge bg-secondary">Contact Me</span>
       <ul class="list-group">
-        <li class="list-group-item">My GitHub username is kc</li>
-        <li class="list-group-item">LinkedIn: kcman</li>
+        <li class="list-group-item">Authors Name: Luis Pardo</li>
+        <li class="list-group-item"> Authors LinkedIn: king_caliente@github.com</li>
+
+
+        <h3>License</h3>
+        <p class="lead">This project is licensed under the:  + License - see the LICENSE.md file for details .</p>  
+
+
       </ul>
     </div>
   </header>
