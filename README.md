@@ -10,6 +10,7 @@
   * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
+  * [Link](#link)
   
   ## Installation 
   The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module. 
@@ -25,3 +26,8 @@
 
   ## Tests
   npm test
+
+## Link 
+# Follow this link for the video walkthrough
+
+https://drive.google.com/file/d/1WXN3U1yybr67WeIl-iWssTyVeGfxJX6n/view
